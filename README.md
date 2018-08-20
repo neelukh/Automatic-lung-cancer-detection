@@ -1,4 +1,4 @@
-# Automatic-lung-cancer-detection
+# Automatic lung cancer detection
 
 Lung cancer is the world’s deadliest cancer and it takes countless lives each year. Fortunately, early detection of the cancer can drastically improve survival rates. Computer-aided diagnostics could be the key here, as it might help to detect tumors automatically and thus at a wider scale.
 
